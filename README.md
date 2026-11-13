@@ -11,7 +11,6 @@
 
 ### when it is done run node index.js
 ### if you have any errors just install the packages it is asking for
-
 - any deploy service should work just fine
 - this is NOT source code, it's just a proxy so that anyone can deploy
 - NO STATIC DEPLOYMENTS WILL WORK, THIS IS A NODE.JS FILE!
