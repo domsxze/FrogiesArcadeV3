@@ -8,4 +8,4 @@ services:
   region: oregon
   buildCommand: npm i
   startCommand: node index.js
-version: "1"
+version: "2"
